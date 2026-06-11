@@ -1,5 +1,3 @@
-# VectorShift - Full Stack Pipeline Assessment
-
 This project is a full-stack visual pipeline builder and execution engine, built as part of the VectorShift Technical Assessment. It allows users to visually construct Directed Acyclic Graphs (DAGs) representing AI workflows, configure nodes, and natively execute them against both mock and live LLM APIs.
 
 ## 🚀 Key Features Implemented
